@@ -11,3 +11,8 @@ It was important for us to understand the relationship between network latency a
 This project iteratively inserted records at various network latencies to understand the effect on throughput.
 
 ![network latency vs throughput](galera_inserts_vs_network_latency.png)
+
+
+Here's a video walk-through:
+
+[![Highly available MariaDB with Galera Cluster](https://img.youtube.com/vi/537SBbbJLYY/0.jpg)](https://www.youtube.com/watch?v=537SBbbJLYY)
